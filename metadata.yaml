@@ -1,0 +1,34 @@
+_repo: On-the-Track_1231
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawson, Henry
+    alias: Lawson, Henry Archibald Hertzberg
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '119'
+    url: http://www.gutenberg.org/2009/agents/119
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Lawson
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '1998-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories, Australian'
+- GITenberg
+tableOfContents: The songs they used to sing -- A vision of Sandy Blight -- Andy Page's
+  rival -- The iron-bark chip -- "Middleton's Peter" -- The mystery of Dave Regan
+  -- Mitchell on matrimony -- Mitchell on women -- No place for a woman -- Mitchell's
+  jobs -- Bill, the ventriloquial rooster -- Bush cats -- Meeting old mates -- Two
+  Larrikins -- Mr. Smellingscheck -- "A rough shed" -- Payable gold -- An oversight
+  of Steelman's -- How Steelman told his story.
+title: On the Track
+url: http://www.gutenberg.org/ebooks/1231
